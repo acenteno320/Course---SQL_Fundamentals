@@ -29,8 +29,6 @@ The course is structured into several modules, each focusing on a specific topic
 7. **Subqueries and Nested Queries**
 8. **Indexes, Constraints, and Performance Optimization**
 
-Here's a more concise version of the course objectives:
-
 ### Course Objectives:
 
 1. **Analyze Work Functions**:
